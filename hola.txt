@@ -14,4 +14,30 @@ dfgggfgg
 Modificando desde github.com online
 
 asdasdddssd
+<<<<<<< HEAD
 asd22222222222222
+=======
+
+
+Prueba nueva visaul Studio nuevo
+
+
+changes
+
+
+1112222
+
+
+subo desde vsww343
+asdasdas
+dasd
+asd
+
+
+10.48
+
+
+10.49
+
+10.50
+>>>>>>> 299cddefffba9a2c0c026d2cda2d08fc6e35deff
